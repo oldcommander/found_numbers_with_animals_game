@@ -13,6 +13,11 @@ Youtube Video Linki https://www.youtube.com/watch?v=uxX3b_UnFbM
 
 * Bu proje 06.02.2023 tarihinde gerçekleşen Kahramanmaraş-Gaziantep bölgelerindeki deprem sonrası çocukların rehabilitasyonuna olumlu yönde katkı sağlamak için geliştirilmiştir. Elimizde bulunan bir posterde yer alan etkinlikler öğrenciler tarafından yapılan oyunlarla birer eğitici oyuna dönüştürülmüştür. 
 * Oyun içerisinde yer alan işlemler ve yordamlar ile çocukların matematiğe bakış açılarını değiştirerek onlara sevdirmeyi amaçlamıştır. En kısa yol problemleri, çarpanlara ayırma, mod alma, asal sayılar, toplama, çıkarma, bölme, çarpma gibi birçok işlemi kolayca yapılması için tamamen eğlenceli bir hale getirerek mühendisliğin temeli olan bu yararlı alışkanlığı çocuklara aşılamayı hedeflemekteyiz. 
+## Ekran Görüntüleri
+
+* Uygulama Ekran Görüntüsü https://www.hizliresim.com/qbe65hg
+
+  
 ## Teşekkür
 
 - Fırat Üniversitesi Teknoloji Fakültesi Yazılım Mühendisliği Bölümü Öğretim Üyesi Doç. Dr. Fatih ÖZKAYNAK hocamıza fikirleri için teşekkürlerimizi sunuyorum. 
