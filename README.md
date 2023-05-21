@@ -4,6 +4,11 @@ Yazılım Mühendisliğinde Güncel Konular Vize Proje Ödevi
 Bu proje Fırat Üniversitesi Teknoloji Fakültesi Yazılım Mühendsiliği Bölümü YMH459 Yazılım Mühendisliğinde Güncel Konular dersi kapsamında vize proje ödevi olarak geliştirilmiştir.  
 
 
+## Lütfen İzleyiniz
+
+Youtube Video Linki https://www.youtube.com/watch?v=uxX3b_UnFbM
+
+  
 ## Amaç ve Kapsam
 
 * Bu proje 06.02.2023 tarihinde gerçekleşen Kahramanmaraş-Gaziantep bölgelerindeki deprem sonrası çocukların rehabilitasyonuna olumlu yönde katkı sağlamak için geliştirilmiştir. Elimizde bulunan bir posterde yer alan etkinlikler öğrenciler tarafından yapılan oyunlarla birer eğitici oyuna dönüştürülmüştür. 
